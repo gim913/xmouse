@@ -13,7 +13,7 @@ You should experiment with "time" according to your needs.
 
 Unfortunatelly, I'm not aware of any way to have BOTH:
  * *focus-follows-mouse* and
- * *mouse-follows-focus*
+ * *mouse-follows-focus* (I mean in such a way that the cursor is put in the centre of an app, when you change focus with alt+tab)
 
 at the same time under Windows (without using 3rd party apps)
 
